@@ -1,1 +1,4 @@
 streamlit
+orange3
+pandas
+altair
